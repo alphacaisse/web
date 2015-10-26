@@ -1,0 +1,26 @@
+{
+  "name": "appropriez-vous-le-web-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jnrdt/appropriez-vous-le-web-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnrdt/appropriez-vous-le-web-example/issues"
+  },
+  "homepage": "https://github.com/jnrdt/appropriez-vous-le-web-example",
+  "devDependencies": {
+    
+  },
+  "dependencies": {
+	"gulp-markdown-to-json": "^0.2.1",
+    "gulp-util": "^3.0.7"
+  }
+}
